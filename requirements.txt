@@ -1,0 +1,9 @@
+# Requirements for development and runtime (example)
+# Add pinned versions as needed
+pandas
+numpy
+scikit-learn
+streamlit
+fastapi
+uvicorn
+pytest
